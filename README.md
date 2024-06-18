@@ -1,3 +1,5 @@
 # Git Pratice
 
-git 사용 연습
+git 연습
+
+이 파일을 수정합니다
